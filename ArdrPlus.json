@@ -1,10 +1,10 @@
 {
     "name": "ArdrPlus IPA Library",
-    "identifier": "xyz.cypwn.ipalibrary",
-    "subtitle": "CyPwn's Exclusive IPA Library",
+    "identifier": "xyz.ArdrPlus.ipalibrary",
+    "subtitle": "ArdrPlus's Exclusive IPA Library",
     "iconURL": "https:\/\/repo.cypwn.xyz\/images\/cypwn_new.png",
     "website": "https:\/\/ipa.cypwn.xyz",
-    "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
+    "sourceURL": "https://3y-fz.github.io/ArdrPlus.json",
     "featuredApps": [
         "Ed0ardo.CyPwnStore"
     ],
